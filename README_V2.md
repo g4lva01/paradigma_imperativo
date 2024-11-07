@@ -15,7 +15,7 @@
 
 - 🔍 Explicação de conceitos do paradigma imperativo, como resolução e inferência.
 - 📝 Exemplos de código em C para resolução de problemas.
-- 🌐 Interface web responsiva para a apresentação do projeto, usando HTML, CSS e OutSystems.
+- 🌐 Interface web responsiva para a apresentação do projeto, usando HTML, CSS, OutSystems e PowerApps.
 
 ## 🚀 Sobre o Projeto
 O projeto proporciona uma compreensão profunda do paradigma imperativo, incluindo suas características, vantagens e desvantagens. Além disso, iremos implementar exemplos práticos em uma linguagem de programação imperativa para ilustrar os conceitos discutidos.
@@ -29,6 +29,7 @@ O projeto proporciona uma compreensão profunda do paradigma imperativo, incluin
 1. Clone este repositório:
 git clone https://github.com/seu-usuario/seu-repositorio.git
 2. Abra o arquivo `index.html` no navegador para visualizar o site.
+3. Clique no Link https://paradigimpera.powerappsportals.com/
 
 ## Interagindo com o Projeto
 
@@ -38,7 +39,7 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 ## 📚 Bibliotecas e Tecnologias Utilizadas
 - **OutSystems**- Criador de site em Códico Baixo (LowCode)
 - **HTML/CSS/**: Construção do site.
-- 
+- **Power Apps: Construtor de site em Códico Baixo (LowCode)
 ## 💻 Tecnologias Utilizadas no Projeto
 - <img src="https://skillicons.dev/icons?i=html" width="30"> HTML
 - <img src="https://skillicons.dev/icons?i=css" width="30"> CSS3

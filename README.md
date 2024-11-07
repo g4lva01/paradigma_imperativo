@@ -39,7 +39,7 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 ## 📚 Bibliotecas e Tecnologias Utilizadas
 - **OutSystems**- Criador de site em Códico Baixo (LowCode)
 - **HTML/CSS/**: Construção do site.
-- **Power Apps: Construtor de site em Códico Baixo (LowCode)
+- **Power Apps**: Construtor de site em Códico Baixo (LowCode)
 ## 💻 Tecnologias Utilizadas no Projeto
 - <img src="https://skillicons.dev/icons?i=html" width="30"> HTML
 - <img src="https://skillicons.dev/icons?i=css" width="30"> CSS3

@@ -64,7 +64,9 @@ Agradecemos aos desenvolvedores por sua dedicação e trabalho árduo na criaç�
 4. Envie as suas alterações: `git push origin my-feature`.
 
 ## 💪 QR Code do GitHub do Projeto
-<img src="https://github.com/g4lva01/paradigma_imperativo/blob/main/QR%20Code.png" alt="image" width="200" height="200">
+<img src="https://github.com/g4lva01/paradigma_imperativo/blob/main/QR%20Code.png" alt="image" width="200" height="200"> <img src="https://raw.githubusercontent.com/g4lva01/paradigma_imperativo/refs/heads/main/QRcode_site_power_Apps.png" alt="image" width="200" height="200">
+
+
 
 
 

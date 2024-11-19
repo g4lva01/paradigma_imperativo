@@ -10,13 +10,13 @@
 ## Descrição do Projeto
 
 <p align="center">Este projeto explora o **Paradigma Imperativo**, uma das abordagens fundamentais da programação. O paradigma imperativo é caracterizado pela descrição de como um programa deve executar suas tarefas, utilizando instruções que alteram o estado do sistema. Isso contrasta com paradigmas declarativos, onde se descreve o que o programa deve realizar, sem especificar como.
-</b>, utilizando a linguagem <b>C</b>. O projeto inclui um site com <b>HTML, CSS </b> para documentar e apresentar os conceitos abordados.</p>
+</b>, utilizando a linguagem <b>C</b>. O projeto inclui um site com <b>HTML, CSS, JavaScript </b> para documentar e apresentar os conceitos abordados.</p>
 
 # :hammer: Funcionalidades do projeto
 
 - 🔍 Explicação de conceitos do paradigma imperativo, como resolução e inferência.
 - 📝 Exemplos de código em C para resolução de problemas.
-- 🌐 Interface web responsiva para a apresentação do projeto, usando HTML, CSS, OutSystems e PowerApps.
+- 🌐 Interface web responsiva para a apresentação do projeto, usando HTML, CSS, JavaScript, OutSystems e PowerApps.
 
 ## 🚀 Sobre o Projeto
 
@@ -43,7 +43,7 @@ O projeto proporciona uma compreensão profunda do paradigma imperativo, incluin
 ## 📚 Bibliotecas e Tecnologias Utilizadas
 
 - **OutSystems**- Criador de site em Códico Baixo (LowCode)
-- **HTML/CSS/**: Construção do site.
+- **HTML/CSS/JavaScript**: Construção do site.
 - **Power Apps**: Construtor de site em Códico Baixo (LowCode)
 
 ## 💻 Tecnologias Utilizadas no Projeto
